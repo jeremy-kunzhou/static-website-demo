@@ -1,0 +1,13 @@
+body{
+	background: url(../images/bg.jpg);
+}
+
+.center{
+	margin: 0 auto;
+	text-align: center
+}
+
+#enter{
+	color: white;
+	}
+	
